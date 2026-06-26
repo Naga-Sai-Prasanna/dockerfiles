@@ -18,7 +18,6 @@ A practice collection covering every major Dockerfile instruction, each with a m
 - [USER](#user)
 - [WORKDIR](#workdir)
 
-
 ---
 
 ## FROM
